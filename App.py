@@ -1,3 +1,3 @@
-from Utils import App
+from utils import App
 
 App()
